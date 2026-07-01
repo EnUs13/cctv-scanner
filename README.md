@@ -372,4 +372,4 @@ If you discover a security vulnerability in this tool, please report it responsi
 
 **Remember**: With great power comes great responsibility. Use this tool ethically and legally.
 
-Made with ❤️ by [gatiella](https://github.com/EnUs13}
+(https://github.com/EnUs13}
