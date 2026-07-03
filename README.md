@@ -1,4 +1,4 @@
-# CCTV Network Security Scanner
+3# CCTV Network Security Scanner
 
 A professional-grade Go application for ethical security assessment of CCTV devices on your network.
 
@@ -351,8 +351,8 @@ chmod +x cctv-scanner
 
 For issues, questions, or feature requests:
 - 🐛 [Open an Issue](https://github.com/gatiella/cctv-scanner/issues)
-- 💬 [Discussions](https://github.com/gatiella/cctv-scanner/discussions)
-- 📧 Contact: [Your Email]
+- 💬 [Discussions](https://github.com/EnUs/cctv-scanner/discussions)
+- 📧 Contact: [uscanga1397@gmail.com]
 
 ## 🙏 Acknowledgments
 
@@ -372,4 +372,4 @@ If you discover a security vulnerability in this tool, please report it responsi
 
 **Remember**: With great power comes great responsibility. Use this tool ethically and legally.
 
-Made with ❤️ by [gatiella](https://github.com/gatiella)
+Made with ❤️ by [EnUs](https://githup.com/EnUs13/)
